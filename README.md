@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! My name is Chloe and I love music! One of my favorite songs is "Only God Can Judge Me" by TuPac
 
 <!--
 **Chloe-shmunny/Chloe-shmunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
